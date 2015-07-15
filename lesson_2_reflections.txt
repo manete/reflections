@@ -10,3 +10,23 @@ How is the staging area different from the working directory and the repository?
 Its different because stagin area prepare files to commit that you are seleceted. 
 
 I think that its good if i create commits differents
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can compare the different betwenn two ares use git dif --stage
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want two different version to the same code. 
+
+
+How do the diagrams help you visualize the branch structure?
+
+To visualize the structure use git --graph --oneline [onebranch] [second-branch]
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros its fast
+cons its dangerous not review code.
