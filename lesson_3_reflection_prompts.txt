@@ -12,3 +12,7 @@ Forks to copy repository in own github repository
 clones to create copy in own computer 
 
 branches to create a branch from other project
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It is that yo hava all changes and its easy commit changes
