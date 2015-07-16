@@ -20,3 +20,7 @@ It is that yo hava all changes and its easy commit changes
 how would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 It is difficult collaborate without usig git, yo must see all the changes and review one to one.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+when i want to add a new feature an i have to touch ppal files. this all right not affect other developers
