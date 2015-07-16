@@ -16,3 +16,7 @@ branches to create a branch from other project
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It is that yo hava all changes and its easy commit changes
+
+how would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It is difficult collaborate without usig git, yo must see all the changes and review one to one.
